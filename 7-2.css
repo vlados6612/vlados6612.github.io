@@ -1,0 +1,16 @@
+.d-block{
+width: 5rem;
+
+}
+.container{
+    background-color: lightgray;
+    border-radius: 20px;
+    box-shadow: 0 0 30px gray;
+}
+
+.contact, .about, .info{     border-left: 1px solid rgb(0, 0, 0);     background: rgb(230, 230, 230);     padding: 1.5rem;     margin-top: 1.5rem;      }
+.text-1{
+    font-family:'Philosopher', sans-serif;
+    font-size: 25px;
+
+}
